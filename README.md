@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafli Ramdani</h1>
 <h3 align="center">now begin my journey as an indie game developer and create mobile apps</h3>
 
-- 🔭 I’m currently working on **narrative game and simulation**
+- 🔭 I’m currently working on **agent-based modelling simulation**
 
-- 🌱 I’m currently learning **frameworks, netlogo, mesa, python, C++, and Android**
+- 🌱 I’m currently learning **R, netlogo, mesa, python, C#, and Python**
 
-- 👯 I’m looking to collaborate on **game development**
+- 👯 I’m looking to collaborate on **computational social sciences**
 
-- 🤝 I’m looking for help with **game designer or Android mobile apps developer**
+- 🤝 I’m looking for help with **social engineer or CSS enthusiast**
 
 - 💬 Ask me about **incorporating social theories to computational simulation**
 
